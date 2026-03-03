@@ -1,7 +1,7 @@
 # HTML_CSS_Restaurant
 ### I used plain semantic HTML5
 ### I used CSS3 flex and grid and media queries to RWD
-
+### I Collaborate with my only friend ever "My Self"
 <a href="https://tourmaline-kataifi-07ae96.netlify.app/" target="_blank">&FilledSmallSquare;Restaurant</a>
 
 ![k](https://user-images.githubusercontent.com/89871900/232270298-ff52f110-c9b6-41d9-a8f4-9874283d581d.png)
